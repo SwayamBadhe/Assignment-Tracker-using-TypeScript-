@@ -1,0 +1,59 @@
+.title {
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+form .mb-3:first-child {
+  margin-top: 30px;
+}
+
+.index-page .btn {
+  width: 60%;
+  text-align: center;
+  font-weight: bold;
+  display: block;
+  margin: 0 auto;
+  background-color: #1d3557;
+  border-radius: 25px;
+}
+
+.table-page .btn {
+  margin: 10px;
+}
+
+.table {
+  margin-top: 40px;
+}
+
+input.form-control {
+  background-color: #a8dadc;
+}
+
+input::placeholder {
+  font-weight: 480;
+}
+
+form .form-select {
+  background-color: #a8dadc;
+}
+
+body {
+  background-color: #f1faee;
+}
+
+nav.navbar {
+  background-color: #457b9d;
+  font-weight: 600;
+}
+
+h1 {
+  color: #e63946;
+}
+
+.custom-tooltip {
+  position: relative;
+  cursor: pointer;
+}
+
+
